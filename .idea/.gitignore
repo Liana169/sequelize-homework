@@ -1,0 +1,8 @@
+# Default ignored files
+/../../Sequelize /.idea/shelf/
+/../../Sequelize /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../Sequelize /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../Sequelize /.idea/dataSources/
+/../../Sequelize /.idea/dataSources.local.xml
